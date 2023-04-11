@@ -1,0 +1,14 @@
+python39-devel [platform:rpm compile]
+python39-pip
+python38-devel
+python38-pip
+libcurl-devel [platform:rpm compile]
+krb5-devel [platform:rpm compile]
+krb5-workstation [platform:rpm]
+subversion [platform:rpm]
+subversion [platform:dpkg]
+git-lfs [platform:rpm]
+sshpass [platform:rpm]
+rsync [platform:rpm]
+epel-release [platform:rpm]
+

@@ -1,0 +1,5 @@
+pycurl
+pyvmomi
+pymysql
+pyopenssl>=22.0.0
+cryptography

@@ -1,0 +1,40 @@
+---
+collections: 
+  - amazon.aws
+  - awx.awx
+  - check_point.mgmt
+  - cisco.intersight
+  - community.aws
+  - community.docker
+  - community.general
+  - community.google
+  - community.grafana
+  - community.hashi_vault
+  - community.kubevirt
+  - community.kubernetes
+  - community.libvirt
+  - community.mongodb
+  - community.mysql
+  - community.network
+  - community.okd
+  - community.postgresql
+  - community.proxysql
+  - community.vmware
+  - community.windows
+  - community.zabbix
+  - containers.podman
+  - google.cloud
+  - hetzner.hcloud
+  - hpe.nimble
+  - ibm.qradar
+  - inspur.sm
+  - kubernetes.core
+  - netapp.aws
+  - netapp.cloudmanager
+  - netapp.elementsw
+  - netapp.ontap
+  - netapp_eseries.santricity
+  - openvswitch.openvswitch
+  - ovirt.ovirt
+  - community.crypto
+
