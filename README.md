@@ -1,5 +1,5 @@
 ## AAP / AWX Execution Environment
 
-````bash
+```bash
   docker build . -t aap-ee:latest
 ```
